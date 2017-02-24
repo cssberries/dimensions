@@ -22,6 +22,7 @@
     "tests"
   ],
   "dependencies": {
-    "cssberries-modulars": "latest"
+    "cssberries-modulars": "latest",
+    "cssberries-breakpoints": "latest"
   }
 }
